@@ -24,3 +24,16 @@
 .bg-danger, .btn-danger{
   background: linear-gradient(45deg, darkslategrey, darkred);
 }
+.bg-light-blue{
+  background-color: #98bde4;
+}
+.bg-light-green{
+  background-color: #b2eebc;
+}
+.bg-light-orange{
+  background-color: #f0c1ae;
+}
+.p-image{
+  border-radius:10px;
+  box-shadow: 0 0 10px black;
+}
